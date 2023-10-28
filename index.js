@@ -296,6 +296,6 @@ app.get("/delete2/:id_anime", async (req, res) => {
 //    console.log('Server started on port 8080');
 //});
 
-app.listen(8080, () => {
-  console.log('Server started on port 8080');
+app.listen(8888, () => {
+  console.log('Server started on port 8888');
 });
